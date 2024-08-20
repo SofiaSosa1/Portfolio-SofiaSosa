@@ -1,0 +1,76 @@
+.h1 {
+    font-family: "Rubik Mono One", monospace;
+    font-weight: 400;
+    font-style: normal;
+}
+img{
+    border-radius: 60%;
+
+}
+header{
+    text-align: center;
+   margin-top: 2%;
+}
+#Portfolio{
+    background-color: pink;
+    text-align: center;
+}
+form{
+    background-color: rgb(170, 170, 170);
+    height: 200%;
+}
+#Contacto h2{
+    text-align: center;
+}
+#Contacto{
+    text-align: center;
+    margin:2%;
+    padding:2%;
+}
+#AcercaDeMi {
+    background-color: rgb(209, 136, 231);
+    text-align: center;
+}
+#AcercaDeMi h6 {
+ 
+    width: 80%;
+    text-align:center;
+ margin-left: 10%;
+}
+footer{
+    background-color: rgb(255, 13, 146);
+    text-align: center; 
+}
+footer h4{
+    text-align: center; 
+}
+footer img{
+   height: 40px;
+}
+#direccion{
+    float: left;
+
+}
+#nav a{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+   
+}
+#nav a:hover{
+    background-color: rgb(255, 255, 255);
+    
+}
+#direccion{
+    grid-row: inherit;
+}
+#redes{
+    grid-row: inherit;
+    
+}
+#Portfolio img{
+width: 80%;    
+padding: 1%;
+border-radius: 20%;
+margin: 5%;
+
+}
